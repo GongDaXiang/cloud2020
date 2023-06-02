@@ -9,4 +9,4 @@
 **/.idea/
 /*.xml
 target/
-**/target/
+/**/target/
